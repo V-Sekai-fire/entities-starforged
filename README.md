@@ -12,4 +12,4 @@ The repository holds no code, so there is nothing to build.
 
 ## Licence
 
-The repository does not state a licence.
+MIT. See [LICENSE](LICENSE).
